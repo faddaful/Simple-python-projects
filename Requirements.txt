@@ -1,0 +1,4 @@
+
+Requirements
+1. pypdf - use "pip install pypdf" to install
+2. pytube 
